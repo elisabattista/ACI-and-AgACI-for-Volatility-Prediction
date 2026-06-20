@@ -1,4 +1,4 @@
-# ACI-and-AgACI-for-Volatility-Prediction
+# ACI-and-AgACI-for-Volatility-Prediction (group project)
 
 ## Team and Course Information
 
